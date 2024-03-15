@@ -3,8 +3,7 @@ import 'package:weather_app/core/api_helper.dart';
 class ApiConstants {
   const ApiConstants._();
 
-  //TODO: Insert your 'OpenWeather map'
-  static const String apiKey = '';
+  static const String apiKey = 'db37bc9578464c302cec499ab6e16c5a';
 
   static const String baseUrl = 'api.openweathermap.org';
   static const String geoCodingBaseUrl = 'geocoding-api.open-meteo.com';

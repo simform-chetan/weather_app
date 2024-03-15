@@ -1,9 +1,11 @@
 # Weather App
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/53926a0529af4a2a8577e7e6f8a35846)](https://app.codacy.com/gh/simform-chetan/weather_app/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 Android App Link: [Weather App](https://github.com/simform-chetan/weather_app/preview/weather_app_release.apk)
 
 ## App Preview
-<img src="https://github.com/simform-chetan/weather_app/preview/home_page.jpg" alt ="" height=500 width=250/><img src="https://github.com/simform-chetan/weather_app/preview/home_page2.jpg" alt="" height=500 width=250/><img src="https://github.com/simform-chetan/weather_app/preview/detail_page.jpg" alt ="" height=500 width=250/><img src="https://github.com/simform-chetan/weather_app/preview/settings_page" alt ="" height=500 width=250/>
+<img src="https://raw.githubusercontent.com/simform-chetan/weather_app/main/preview/home_page.jpg" alt ="" height=500 width=250/><img src="https://raw.githubusercontent.com/simform-chetan/weather_app/main/preview/home_page2.jpg" alt="" height=500 width=250/><img src="https://raw.githubusercontent.com/simform-chetan/weather_app/main/preview/detail_page.jpg" alt ="" height=500 width=250/><img src="https://raw.githubusercontent.com/simform-chetan/weather_app/main/preview/settings_page.jpg" alt ="" height=500 width=250 />
 
 ## Requirements
 - IDE: An Integrated Development Environment to view and run the code.
